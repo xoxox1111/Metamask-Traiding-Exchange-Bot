@@ -14,9 +14,12 @@
 
 4. User-Friendly Interface: Simple setup process and an intuitive dashboard for monitoring and controlling your bot.
 
-# How to Get Started:
+## How to Get Started:
+# Download
 
-🚀 Install --> [Releases]() ![Boost Logo](metamask.gif)
+🚀 Install --> [Releases]() 
+
+![Boost Logo](metamask.gif)
 
 We welcome contributions from the community! Whether it's bug fixes, new features, or optimizations, feel free to open a pull request. If you encounter any issues or have suggestions, please open an issue – we value your feedback!
 
